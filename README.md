@@ -128,6 +128,6 @@ Testing restful API calls with Insomnia Core
 
 ## Submission:
 
-[Github repository](https://github.com/carissamero)
+[Github repository](https://github.com/carissamero/Social-Network-API.git)
 
 ## Questions:

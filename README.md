@@ -25,7 +25,7 @@ This assignment was designed to create and demonstrate a social network api. Thi
 
 ## Walkthrough Video
 
-[Walkthrough Demo]()
+[Walkthrough Demo](https://drive.google.com/file/d/1wP58INkgjmCE8nVtYPv7nE39iUbeJroi/view)
 
 ## Installation:
 
